@@ -1,0 +1,46 @@
+{
+  "pods": {
+    "pod12": {
+    "POD_NUMBER": "pod12"
+    },
+    "pod13": {
+    "POD_NUMBER": "pod13"
+    },
+    "pod14": {
+    "POD_NUMBER": "pod14"
+    },
+    "pod15": {
+    "POD_NUMBER": "pod15"
+    },
+    "pod17": {
+    "POD_NUMBER": "pod17"
+    },
+    "pod18": {
+    "POD_NUMBER": "pod18"
+    },
+    "pod19": {
+    "POD_NUMBER": "pod19"
+    },
+    "pod20": {
+    "POD_NUMBER": "pod20"
+    },
+    "pod23": {
+    "POD_NUMBER": "pod23"
+    },
+    "pod25": {
+    "POD_NUMBER": "pod25"
+    },
+    "pod26": {
+    "POD_NUMBER": "pod26"
+    },
+    "pod27": {
+    "POD_NUMBER": "pod27"
+    },
+    "pod998": {
+    "POD_NUMBER": "pod998"
+    },
+    "pod999": {
+    "POD_NUMBER": "pod999"
+    }
+  }
+}
