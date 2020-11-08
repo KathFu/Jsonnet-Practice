@@ -1,3 +1,4 @@
+# Can change the items inside the arrays to get different fruits, movies, and snacks
 local util = import 'pod.json';
 
 local fruits = ["apple", "banana", "cherry", "pears"];
